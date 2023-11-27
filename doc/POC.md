@@ -33,7 +33,7 @@
 
 У результаті ми під'єдналися до веб-інтерфейсу ArgoCD
 
-![]
+![](https://github.com/ZadorozhnaI/AsciiArtify/blob/main/doc/argo%20web.jpg)
 
-![]
+![](https://github.com/ZadorozhnaI/AsciiArtify/blob/main/doc/argo%20menu.jpg)
 
