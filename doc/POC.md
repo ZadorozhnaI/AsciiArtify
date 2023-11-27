@@ -4,7 +4,7 @@
 
 ### Демо
 
-![]()
+![](https://github.com/ZadorozhnaI/AsciiArtify/blob/main/doc/623616.gif)
 
 ### Інструкція з розгортання
 
